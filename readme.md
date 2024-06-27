@@ -1,0 +1,7 @@
+# Simulation and Analysis of Spectrum Sensing in Cognitive Radio
+
+## Abstract
+
+To satisfy future bandwidth demands, existing Cognitive Radio with Wireless Communication must be upgraded to make the best use of the bandwidth. The primary objective of the IEEE 802.22 standard is to determine vacant spectrum bands available in the Digital television channel (DTV) and to utilize them for wireless rural broadband connectivity. Cognitive Radio (CR) aims at maximizing the utilization of the limited radio bandwidth while accommodating the increasing number of services and applications in wireless networks. For cognitive radio networks to operate efficiently, Secondary users (SU) should be able to exploit radio spectrum that is unused by the primary network. A critical component of cognitive radio is spectrum sensing. There are many spectrum sensing algorithms available in the literature out of which energy detection is widely used because it is easy to implement and does not require prior information about PU (Primary User). However, the performance of the conventional energy detector deteriorates in the low SNR region. Double threshold CSS (Cooperative Spectrum Sensing) was introduced to increase the reliability of the decision but at the cost of some sense, information was lost. The detection performance is described through extensive simulation using the MATLAB simulation tool.
+
+**Tech Stack**: ```Matlab/Simulink```
